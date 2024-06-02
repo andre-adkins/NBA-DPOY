@@ -14,3 +14,10 @@ In this project, I take a look at the defensive statistics of every player in th
   + **Defensive Win Shares:** Estimate of how many wins a player contributes to their team through their defensive abilities<br>
   + **Individual Wins:** Number of team wins in which the player participated in.<be>
   + **DPOY Rating:** A rating calculated using sum of the Z-scores of each player's defensive statistics. A negative DPOY Rating denotes a bad defender, and the higher the DPOY Rating, the better the defender.
+
+## Skills Used
+- DataFrame creation
+- Data Cleaning (Dealing with nulls, Changing column names)
+- Data Transformation (Splitting strings into multiple columns, Creating new quantitative variable based off of preexisting variables, Creating new columns based on mathematical calculations)
+- Filtering Data
+- Data Visualization (Scatterplots)
