@@ -1,6 +1,9 @@
 # Analyzing the NBA's Defensive Player of the Year Award Winners
 In this project, I take a look at the defensive statistics of every player in the league. The ultimate goal is to see if the voted Defensive Player of the Year matches who SHOULD have won based on the stats. The data was retrieved from the [Official NBA Stats Website](https://www.nba.com/stats/).
 
+*I AM CURRENTLY IN THE PROCESS OF MOVING MY PROJECTS TO GITHUB.* <br>
+*[IN THE MEAN TIME, CLICK THIS LINK FOR MORE COMPLETE INFORMATION ON THIS PROJECT](https://andrebproctor.wixsite.com/drdata/post/___hi)*
+
 ## Programs Used
 + **SQL:** Used to collect, clean, join, and transform the data. <br>
 + **Tableau:** Used to create the data visualization of the results.
