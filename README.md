@@ -1,6 +1,8 @@
 # Analyzing the NBA's Defensive Player of the Year Award Winners
 In this project, I take a look at the defensive statistics of every player in the league. The ultimate goal is to see if the voted Defensive Player of the Year matches who SHOULD have won based on the stats. The data was retrieved from the [Official NBA Stats Website](https://www.nba.com/stats/).
 
+[Tableau Visualization - NBA Defensive Player of the Year Ratings 2015-2023](https://public.tableau.com/views/NBADefensivePlayeroftheYearRatings2015-2023/DefensivePlayeroftheYearRatings?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 *I AM CURRENTLY IN THE PROCESS OF MOVING MY PROJECTS TO GITHUB.* <br>
 *[IN THE MEAN TIME, CLICK THIS LINK FOR MORE COMPLETE INFORMATION ON THIS PROJECT](https://andrebproctor.wixsite.com/drdata/post/___hi)*
 
